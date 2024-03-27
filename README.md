@@ -1,2 +1,2 @@
-# NERV
-Something like a pokedex for people, there is no privacy left now
+# NERV : Neural Evocation Registry Vault
+Compiling, Storing and Displaying details of people, similar to how the alphabet guys do in the movies.
